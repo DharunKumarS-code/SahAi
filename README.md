@@ -1,3 +1,4 @@
+
 # SahaPathi AI – Multilingual Inclusive Classroom Assistant
 
 > An AI-powered full-stack platform that helps teachers create inclusive classroom environments through multilingual support, accessibility features, participation tracking, and student engagement monitoring.
@@ -198,3 +199,4 @@ APP_JWT_SECRET: your_base64_encoded_secret
 ## 📄 License
 
 This project is built for educational purposes and hackathon demonstrations.
+
