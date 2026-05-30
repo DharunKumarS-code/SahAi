@@ -31,4 +31,7 @@ public class StudentClassroomMapping {
 
     @CreatedDate
     private LocalDateTime joinedAt;
+
+    @Builder.Default
+    private Boolean isActive = true;
 }
